@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dan047</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_faqs">FAQsActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
